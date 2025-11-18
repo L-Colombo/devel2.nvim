@@ -130,6 +130,7 @@ local ts = {
     SpellBad                       = { sp = c.red, undercurl = true },
     SpellCap                       = { fg = c.red, bg = c.black },
     SpellRare                      = { fg = c.green },
+    manBold                        = { fg = c.magenta, bold = true },
 }
 
 for group, link in pairs(ts) do
