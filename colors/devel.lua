@@ -127,6 +127,9 @@ local ts = {
     ["@operator.latex"]            = { fg = c.blue },
     ["@variable.parameter.latex"]  = { fg = c.brown },
 
+    -- OrgMode
+    ["@org.tag.org"]               = { fg = c.brown },
+
     SpellBad                       = { sp = c.red, undercurl = true },
     SpellCap                       = { fg = c.red, bg = c.black },
     SpellRare                      = { fg = c.green },
