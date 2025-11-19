@@ -57,7 +57,7 @@ local groups = {
     ConstantBuiltin   = { fg = c.magenta },
     Identifier        = { fg = c.white },
     IdentifierBuiltin = { fg = c.magenta },
-    Function          = { fg = c.white },
+    Function          = { fg = c.magenta }, --changed
     FunctionBuiltin   = { fg = c.magenta },
     Operator          = { fg = c.white },
     SpecialChar       = { fg = c.magenta },
